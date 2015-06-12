@@ -1,0 +1,15 @@
+/*
+ * sircus-tools-oveflow
+ ================================================== */
+
+.t-overflowScroll  { overflow: scroll !important; }
+.t-overflow        { overflow: auto !important; }
+.t-overflowHidden  { overflow: hidden !important; }
+.t-overflowX {
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+}
+.t-overflowY {
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
