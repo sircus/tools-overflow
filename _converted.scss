@@ -2,14 +2,14 @@
  * sircus-tools-oveflow
  ================================================== */
 
-.t-overflowScroll  { overflow: scroll !important; }
-.t-overflow        { overflow: auto !important; }
-.t-overflowHidden  { overflow: hidden !important; }
+.t-overflowScroll  { overflow: scroll; }
+.t-overflow        { overflow: auto; }
+.t-overflowHidden  { overflow: hidden; }
 .t-overflowX {
-  overflow-x: auto !important;
-  overflow-y: hidden !important;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 .t-overflowY {
-  overflow-x: hidden !important;
-  overflow-y: auto !important;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
